@@ -7,5 +7,7 @@ public class demo11
      
 		System.out.println("HELLO, GOOD MORNING ALL");
 		
+		System.out.println("Hi");
+		
 		}
 }
